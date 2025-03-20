@@ -1,0 +1,60 @@
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  height: 100vh;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-right: 5px;
+  color: #EEEEEE;
+  text-align: right;
+  font-family: 'Indie Flower', cursive;
+}
+
+button{
+  color:wheat;
+  padding: 1.4%;
+  font-size: 1.5rem;
+  width: 200px;
+  background-color: orange;
+  border-radius: 9px;
+  border: 60px double wheat black;
+}
+
+.btn{
+  margin-top: 40px;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
